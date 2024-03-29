@@ -6,6 +6,9 @@
 
 - 🌱I’m a tech enthusiast who keeps on exploring new things and doing experiments with new technologies.
 
+- 💡 Proficient in Frontend Development, I'm always eager to expand my knowledge and explore new technologies. I'm particularly interested in Web Development and enjoy diving deep into complex problems to find 
+     elegant solutions.
+
 - 📫 Feel free to connect me: *pksofficial19@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
