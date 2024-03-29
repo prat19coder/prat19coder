@@ -2,13 +2,18 @@
 <h3>A passionate frontend developer from India</h3>
 
 
-- 🔭 I'm Pratik Kumar Singh, currently pursuing my Bachelors in Computer Science & Engineering.
+- 🎓 I'm Pratik Kumar Singh, currently pursuing my Bachelors in Computer Science & Engineering.
 
 - 🌱I’m a tech enthusiast who keeps on exploring new things and doing experiments with new technologies.
 
-- 💡 Proficient in Frontend Development, I'm always eager to expand my knowledge and explore new technologies. I'm particularly   interested in Web Development and enjoy diving deep into complex problems to find 
-     elegant solutions.
+- 💡 Proficient in Frontend Development, I'm always eager to expand my knowledge and explore new technologies.
 
+- 🚀 I'm particularly interested in Web Development and enjoy diving deep into complex problems to find elegant solutions.
+
+- 🔃Constantly learning and growing, I'm committed to staying updated with the latest trends and advancements in the tech industry.
+
+- 🔍Currently, I'm exploring MERN Full Stack Development and excited to apply my newfound knowledge to future projects.
+ 
 - 📫 Feel free to connect me: *pksofficial19@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
