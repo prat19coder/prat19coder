@@ -15,7 +15,7 @@
 
 - 🚀 I'm particularly interested in Web Development and enjoy diving deep into complex problems to find elegant solutions.
 
-- 🔃 Constantly learning and growing, I'm committed to staying updated with the latest trends and advancements in the tech industry.
+- 🔃 Continuously learning and evolving, I'm dedicated to keeping pace with tech's latest trends and innovations.
 
 - 🔍 Currently, I'm exploring MERN Full Stack Development and excited to apply my newfound knowledge to future projects.
  
