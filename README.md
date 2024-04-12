@@ -59,3 +59,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prat19coder&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prat19coder&theme=tokyonight" />
 </p>
+
+<img width=250 height=250 src=https://cdn.pixabay.com/animation/2023/04/10/20/19/20-19-01-819_512.gif>
+
+
